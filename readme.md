@@ -70,7 +70,7 @@ flowchart TD
 
 ## 📧 Liên hệ
 
-Nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với tôi qua email: [email@example.com].
+Nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với tôi qua email: [nguyentrongphuoc.ai@gmail.com].
 
 ---
 
